@@ -1,6 +1,6 @@
 cask "myscreen" do
   version "1.0.0"
-  sha256 "dc0ac512c307f4c36ed9736d3d67fd7abe4d6de5089ed4c7a56e25485cd00af6"
+  sha256 "85782641e5b071b6d01ff2e2d33622a0d375a22717be2e75f08dacafd2b276c5"
 
   url "https://github.com/Sai8555/MyScreen/releases/download/v#{version}/MyScreen.dmg"
   name "MyScreen"
